@@ -4,12 +4,12 @@ public class Testclass {
 
 	public static void main(String[] args) {
 		
-		int NUMBA = 1;
+		int numba = 1;
 		
-		while(NUMBA < 5) {
+		while(numba < 5) {
 			
-			System.out.println(NUMBA);
-			NUMBA++;
+			System.out.println(numba);
+			numba++;
 			
 		}
 		
