@@ -4,7 +4,14 @@ public class Testclass {
 
 	public static void main(String[] args) {
 		
-		System.out.println("TESTSTSTSTSTST");
+		int NUMBA = 1;
+		
+		while(NUMBA < 5) {
+			
+			System.out.println(NUMBA);
+			NUMBA++;
+			
+		}
 		
 	}
 	
