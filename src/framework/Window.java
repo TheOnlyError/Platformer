@@ -2,6 +2,8 @@ package framework;
 
 import javax.swing.JFrame;
 
+import framework.entities.Player;
+
 public class Window extends JFrame {
 
 	public static final int WIDTH = 720;
@@ -17,6 +19,8 @@ public class Window extends JFrame {
 		setLocationRelativeTo(null);
 		setDefaultCloseOperation(EXIT_ON_CLOSE);
 		setVisible(true);
+
+		new Player();
 	}
 
 }
