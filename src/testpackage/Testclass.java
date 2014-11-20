@@ -9,7 +9,7 @@ public class Testclass {
 		while(numba < 5) {
 			
 			System.out.println(numba);
-			numba++;//ijduiadhfjdfadsadsadsadsds
+			numba++;
 			System.out.println("so fucking swag2");
 			
 		}
