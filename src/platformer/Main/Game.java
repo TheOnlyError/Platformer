@@ -2,7 +2,7 @@ package platformer.Main;
 
 import javax.swing.JFrame;
 
-public class Game {
+public class Game extends JFrame {
 
 	public static void main(String[] args) {
 		
