@@ -1,4 +1,4 @@
-package framework.graphics;
+package platformer.Objects;
 
 import java.awt.image.BufferedImage;
 import java.io.IOException;
