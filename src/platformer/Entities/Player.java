@@ -1,4 +1,4 @@
-package playerformer.Entities;
+package platformer.Entities;
 
 import platformer.Objects.Sprite;
 
